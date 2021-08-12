@@ -31,7 +31,7 @@ h1{
 }
 
 .intro_bg{
-  background-image: url("image/intro.png.png");
+  background-image: url("intro.png.png");
   width:100%;
   height:714px;
 }
@@ -184,7 +184,7 @@ h1{
 .main_text2{
   width: 100%;
   height: 418px;
-  background-image: url("image/contact.png.png")
+  background-image: url("contact.png.png")
 }
 .main_text2 > ul {
   display: flex;
